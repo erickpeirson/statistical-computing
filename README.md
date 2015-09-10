@@ -4,6 +4,8 @@ These are my notes from STA578, in the form of [iPython notebooks](ipython.org).
 I'm doing my best to recreate the example R scripts in Python. This may fail
 miserably if I get lost in the stats.
 
+* [Chapter 1 - MCMC](http://nbviewer.ipython.org/github/erickpeirson/statistical-computing/blob/master/Chapter%201%20-%20Markov%20Chain%20Monte%20Carlo.ipynb)
+
 You can view the rendered notebooks
 [here](http://nbviewer.ipython.org/github/erickpeirson/statistical-computing/tree/master/).
 To run the notebooks: clone this repository, spin up the iPython notebook
