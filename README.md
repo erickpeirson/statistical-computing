@@ -4,7 +4,7 @@ These are my notes from STA578, in the form of [iPython notebooks](ipython.org).
 I'm doing my best to recreate the example R scripts in Python. This may fail
 miserably if I get lost in the stats.
 
-* [MCMC](https://github.com/erickpeirson/statistical-computing/blob/master/Chapter%201%20-%20Markov%20Chain%20Monte%20Carlo.ipynb)
+* [MCMC](https://github.com/erickpeirson/statistical-computing/blob/master/Markov%20Chain%20Monte%20Carlo.ipynb)
 * [Hamiltonian MCMC (HMC)](https://github.com/erickpeirson/statistical-computing/blob/master/Hamiltonian%20MCMC%20(HMC).ipynb)
 
 You can view the rendered notebooks
